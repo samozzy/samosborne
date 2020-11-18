@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+					{% if site.data.current and site.data.current != empty %}
+					<h2>Currently:</h2>
+					<ul class="list-unstyled ml-4">
+						{% for project in site.data.current %}
+							<li class="font-weight-bold">{{ project.role }} &ndash; <a href="{{ project.link }}">{% if project.show and project.show != empty %}<em>{{ project.show }}</em> | {% endif %}{{ project.company }}</a></li>
+						{% endfor %}
+					</ul>
+					{% endif %}
+					{% if page.available and page.available != empty %}
+						<p class="lead"><em>Available for {{ page.available | join: "; " }}</em></p>
+					{% endif %}

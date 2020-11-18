@@ -1,0 +1,18 @@
+.bg-osborne {
+	background: #BCC3DF;
+}
+.card-header {
+	h1 {
+		@extend .display-4;
+	}
+	p {
+		@extend .lead;
+	}
+}
+.muted a, a.muted {
+	color: lighten($blue, 10%);
+}
+
+a i.fa {
+	@extend .pr-4;
+}

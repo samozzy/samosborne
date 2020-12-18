@@ -8,5 +8,6 @@ available:
   - Stage Management
   - Lighting Design
   - QLab Magic
+  - Captioning
 ---
 

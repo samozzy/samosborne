@@ -13,3 +13,13 @@ layout: default
 					{% if page.available and page.available != empty %}
 						<p class="lead"><em>Available for {{ page.available | join: "; " }} for digital and in-person projects</em></p>
 					{% endif %}
+					{% if site.data.previous and site.data.previous != empty %}
+					{% if site.data.current != empty %}<hr>{% endif %}
+					<h2 class="h3">Previous roles include:</h2>
+					<ul class="ml-4">
+						{% for project in site.data.previous %}
+							<li>{{ project.role }} &ndash; {% if project.show and project.show != empty %}<em>{{ project.show }}</em> {% if project.company and project.company != empty %}|{% endif %} {% endif %}{{ project.company }}</li>
+						{% endfor %}
+					</ul>
+					{% endif %}
+

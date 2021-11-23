@@ -11,7 +11,7 @@ layout: default
 					</ul>
 					{% endif %}
 					{% if page.available and page.available != empty %}
-						<p class="lead"><em>Available for {{ page.available | join: "; " }} for digital and in-person projects</em></p>
+						<p class="lead"><em>Available for {{ page.available | array_to_sentence_string: "and" }} roles &mdash; for digital and in-person projects</em></p>
 					{% endif %}
 					{% if site.data.previous and site.data.previous != empty %}
 					{% if site.data.current != empty %}<hr>{% endif %}

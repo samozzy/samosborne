@@ -1,15 +1,18 @@
-- role: Video Programmer
-  company: Nottingham Playhouse
-  show: Little Red Riding Hood  
-- role: Touring Relighter / Production Manager 
-  company: Tavaziva
-  show: "Boy's Khaya (UK Tour)"
-  link: https://tavazivadance.com/productions/boys-khaya/
-- role: Lighting Programmer & Sound Operator 
-  company: Ditto
-  show: The Unexpected Adventures of Darwin the Chimp (Regional Tour)
-- role: Digital Broadcast Technician 
-  show: Andromeda 
+- role: QLab Programmer
+  company: Nottingham Playhouse / Lakeside Arts
+  show: "A Midsummer Night's Dream"
+- role: Associate Lighting Designer & Touring Relighter 
+  company: Body Politic
+  show: "THEM (UK Tour)"
+- role: Lighting Programmer
+  company: Lakeside Arts
+  show: Take Care
 - role: Lighting Designer
   show: BULL
   company: Sonderous Theatre 
+- role: Touring Production Manager 
+  company: Tavaziva Dance
+  show: "Boy's Khaya (UK Tour)"
+  link: https://tavazivadance.com/productions/boys-khaya/
+- role: Digital Broadcast Technician 
+  show: Andromeda 

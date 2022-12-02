@@ -1,12 +1,12 @@
 - role: QLab Programmer
-  company: Nottingham Playhouse / Lakeside Arts
-  show: "A Midsummer Night's Dream"
+  company: Nottingham Playhouse
+  show: "A Midsummer Night's Dream"; "Little Red Riding Hood"; "Goldilocks and the Three Bears"
 - role: Associate Lighting Designer & Touring Relighter 
   company: Body Politic
   show: "THEM (UK Tour)"
 - role: Lighting Programmer
   company: Lakeside Arts
-  show: Take Care
+  show: Take Care; DNA
 - role: Lighting Designer
   show: BULL
   company: Sonderous Theatre 
@@ -15,4 +15,4 @@
   show: "Boy's Khaya (UK Tour)"
   link: https://tavazivadance.com/productions/boys-khaya/
 - role: Digital Broadcast Technician 
-  show: Andromeda 
+  show: Andromeda; work.txt

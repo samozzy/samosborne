@@ -38,7 +38,14 @@
 					<p class="mb-1"><a href="/static/cv.pdf"><i class="fa fa-fw fa-file-pdf"></i>Download my Theatre CV (pdf)</a></p>
 					<p class="mb-1"><a href="mailto:sam@samosborne.me"><i class="fa fa-fw fa-envelope"></i>Email me: sam[at]samosborne[dot]me</a></p>
 					<p class="mb-1">Or find me elsewhere:</p>
-					<p>{% for social in site.data.social %}<a href="{{ social.link }}"><i class="fa-fw fa-lg {{ social.icon }}"><span class="sr-only">{{ social.title }}</span></i></a>{% endfor %}</p>
+					<p>{% for social in site.data.social %}
+						<a 
+							{% if social.link_attrs %}
+								{% for attr in social.link_attrs %}
+									{{ attr.attr }}="{{ attr.value }}"
+								{% endfor %}
+							{% endif %}
+							href="{{ social.link }}"><i class="fa-fw fa-lg {{ social.icon }}"><span class="sr-only">{{ social.title }}</span></i></a>{% endfor %}</p>
 				</div>
 			</div>
 		</div>

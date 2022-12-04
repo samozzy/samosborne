@@ -14,7 +14,7 @@
   link: https://github.com/samozzy/
   icon: fab fa-github 
 - title: Mastodon
-  link: https://masthead.social/@samozzy/
+  link: https://masthead.social/@samozzy
   link_attrs:
     - attr: rel 
       value: me 

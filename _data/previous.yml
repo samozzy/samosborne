@@ -1,6 +1,10 @@
-- role: QLab Programmer
-  company: Nottingham Playhouse
-  show: "'A Midsummer Night's Dream'; 'Little Red Riding Hood'; 'Goldilocks and the Three Bears'"
+- role: Touring Production Manager 
+  company: Tavaziva Dance
+  show: "Boy's Khaya (UK Tour)"
+  link: https://tavazivadance.com/productions/boys-khaya/
+- role: Lighting Designer
+  show: BULL
+  company: Sonderous Theatre 
 - role: Associate Lighting Designer
   company: Hull Truck Theatre
   show: A Christmas Carol 
@@ -11,12 +15,8 @@
 - role: Lighting Programmer
   company: Lakeside Arts
   show: Take Care; DNA
-- role: Lighting Designer
-  show: BULL
-  company: Sonderous Theatre 
-- role: Touring Production Manager 
-  company: Tavaziva Dance
-  show: "Boy's Khaya (UK Tour)"
-  link: https://tavazivadance.com/productions/boys-khaya/
+- role: QLab Programmer
+  company: Nottingham Playhouse
+  show: "'A Midsummer Night's Dream'; 'Little Red Riding Hood'; 'Goldilocks and the Three Bears'"
 - role: Digital Broadcast Technician 
   show: Andromeda; work.txt

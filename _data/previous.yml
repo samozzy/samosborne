@@ -1,7 +1,11 @@
-- role: Touring Production Manager 
+- role: Touring Production Manager & Relighter 
   company: Tavaziva Dance
   show: "Boy's Khaya (UK Tour)"
   link: https://tavazivadance.com/productions/boys-khaya/
+- role: Touring Production Manager & Relighter 
+  company: Body Politic
+  show: "THEM (UK Tour)"
+  link: https://bodypoliticdance.com/projects/them/
 - role: Lighting Designer
   show: BULL
   company: Sonderous Theatre 
@@ -9,12 +13,13 @@
   company: Hull Truck Theatre
   show: A Christmas Carol 
   link: https://www.hulltruck.co.uk/whats-on/christmas/a-christmas-carol/
+- role: Associate Lighting Designer
+  company: The Vaults
+  show: Stranger Sings
+  link: http://strangersingsuk.com/
 - role: Touring Relighter 
   company: Seabright Productions
   show: Trainspotting Live (UK Tour)
-- role: Lighting Programmer
-  company: Lakeside Arts
-  show: Take Care; DNA
 - role: QLab Programmer
   company: Nottingham Playhouse
   show: "'A Midsummer Night's Dream'; 'Little Red Riding Hood'; 'Goldilocks and the Three Bears'"

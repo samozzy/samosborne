@@ -6,7 +6,11 @@ layout: default
 					<h2>Currently:</h2>
 					<ul class="list-unstyled ml-4">
 						{% for project in site.data.current %}
-							<li class="font-weight-bold">{{ project.role }} &ndash; {% if project.link and project.link != empty %}<a href="{{ project.link }}">{% endif %}{% if project.show and project.show != empty %}<em>{{ project.show }}</em>{% endif %}{% if project.show != empty && project.company != empty %} | {% endif %}{{ project.company }}{% if project.link and project.link != empty %}</a>{% endif %}</li>
+							<li class="font-weight-bold">{{ project.role }} &ndash; 
+								{% if project.link and project.link != empty %}<a href="{{ project.link }}">{% endif %}
+								{% if project.show and project.show != empty %}<em>{{ project.show }}</em>{% endif %}
+								{% if project.show and project.show != empty and project.company and project.company != empty %} | {% endif %}{{ project.company }}
+								{% if project.link and project.link != empty %}</a>{% endif %}</li>
 						{% endfor %}
 					</ul>
 					{% endif %}

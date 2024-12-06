@@ -1,15 +1,10 @@
-- role: Touring Production Manager & Relighter 
-  company: The Place
-  show: Dance No 2 Degrees
-  link: https://theplace.org.uk/events/dance-no-2
-- role: Touring Production Manager & Relighter 
-  company: Body Politic
-  show: "THEM (UK Tour)"
-  link: https://bodypoliticdance.com/projects/them/
 - role: Head of Lighting 
   company: Ellis Live / The Vaults 
   show: Stranger Sings UK Tour 
   link: https://strangersingsuk.com/
+- role: Lighting Designer
+  show: GNAW
+  company: Daniel McVey
 - role: Lighting Designer
   show: Choose Your Fighter
   company: Votive Theatre
@@ -30,6 +25,14 @@
 - role: Lighting Programmer for Richard Statham
   company: Lakeside Arts 
   show: "Romeo & Juliet"
+- role: Touring Production Manager & Relighter 
+  company: The Place
+  show: Dance No 2 Degrees
+  link: https://theplace.org.uk/events/dance-no-2
+- role: Touring Production Manager & Relighter 
+  company: Body Politic
+  show: "THEM (UK Tour)"
+  link: https://bodypoliticdance.com/projects/them/
 - role: Relighter
   show: Trainspotting Live (Edinburgh Fringe)
   company: Seabright Live

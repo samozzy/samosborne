@@ -2,6 +2,7 @@ vendor/
 _site/
 .sass_cache/
 .jekyll-cache/
+.bundle/
 
 
 *DS_Store*

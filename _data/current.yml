@@ -1,6 +1,14 @@
 - role: Show Control Programmer 
   show: Peppa Pig's Surprise Party 
   company: Immersive Everywhere 
+- role: Lighting Designer
+  show: "Planet Omar: Accidental Trouble Magnet"
+  company: Leeds Playhouse
+  link: https://www.leedsplayhouse.org.uk/event/planet-omar/
+- role: Associate Lighting Designer & Programmer 
+  show: Chitty Chitty Bang Bang
+  company: Watermill Theatre
+  link: https://www.watermill.org.uk/events/chitty#content-cast
 - role: COGS Programmer
   company: Clockwork Dog 
 - role: Technical Director & Duty Technical Manager

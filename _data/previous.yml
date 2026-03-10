@@ -1,67 +1,101 @@
-- role: Head of Lighting 
-  company: Ellis Live / The Vaults 
-  show: Stranger Sings UK Tour 
-  link: https://strangersingsuk.com/
-- role: Lighting Designer
-  show: The Little Mermaid
-  company: Nottingham Playhouse
-  link: https://nottinghamplayhouse.co.uk/events/the-little-mermaid/
-- role: Lighting Designer
-  show: The Ugly Duckling
-  company: Nottingham Playhouse
-  link: https://nottinghamplayhouse.co.uk/events/the-ugly-duckling/
-- role: Lighting Designer
-  show: GNAW
-  company: Daniel McVey
-- role: Lighting Designer
-  show: Choose Your Fighter
-  company: Votive Theatre
-- role: Lighting Designer
-  show: The Secret Garden
-  company: Big Little Theatre 
-- role: Associate Lighting Designer & Programmer for Jai Morjaria 
-  show: A Christmas Carol 
-  company: Leeds Playhouse
-  link: https://leedsplayhouse.org.uk/event/a-christmas-carol/
-- role: Associate Lighting Designer & Programmer for Jai Morjaria 
-  show: Animal Farm
-  company: Theatre Royal Stratford East, Leeds Playhouse, Nottingham Playhouse 
-  link: https://www.stratfordeast.com/whats-on/all-shows/animal-farm
-- role: Associate Lighting Designer for Joshua Carr
-  company: Hull Truck Theatre
-  show: A Christmas Carol
-- role: Associate Lighting Designer for Clancy Flynn
-  company: The Vaults
-  show: Stranger Sings
-  link: http://strangersingsuk.com/
-- role: Lighting Programmer for Jai Morjaria
-  company: Tilted Sessions
-  show: "Uncanny: I Know What I Saw"
-  link: https://www.tiltedco.com/uncanny-i-know-what-i-saw/
-- role: Lighting Programmer for Richard Statham
-  company: Lakeside Arts 
-  show: "Romeo & Juliet"
-- role: Touring Production Manager & Relighter 
-  company: The Place
-  show: Dance No 2 Degrees
-  link: https://theplace.org.uk/events/dance-no-2
-- role: Touring Production Manager & Relighter 
-  company: Body Politic
-  show: "THEM (UK Tour)"
-  link: https://bodypoliticdance.com/projects/them/
-- role: Relighter
-  show: Trainspotting Live (Edinburgh Fringe)
-  company: Seabright Live
-- role: Relighter 
-  show: "My Son's A Queer (UK Tour)"
-  link: https://www.instagram.com/mysonsaqueer/
-- role: Video Engineer 
-  show: Public Interest 
-  link: https://bradford2025.co.uk/event/public-interest/
-  company: Common Wealth / Bradford2025 
+- role: Lighting Designer 
+  shows: 
+    - title: The Little Mermaid
+      company: Nottingham Playhouse
+      link: https://nottinghamplayhouse.co.uk/events/the-little-mermaid/
+    - title: The Secret Garden
+      company: Big Little Theatre
+    - title: The Ugly Duckling
+      company: Nottingham Playhouse
+      link: https://nottinghamplayhouse.co.uk/events/the-ugly-duckling/
+    - title: GNAW
+      company: Daniel McVey
+    - title: Kennington Loop
+      company: Loudest Laugh Productions
+    - title: Choose Your Fighter
+      company: Votive Theatre
+- role: Associate Lighting Designer
+  shows: 
+    - title: The Wild Cards 
+      company: Sisco 
+      designer: Sam Ohllson 
+    - title: Future Fest 
+      company: Abandoman 
+      designer: Clancy Flynn 
+    - title: A Christmas Carol
+      company: Hull Truck Theatre
+      designer: Joshua Carr
+    - title: Stranger Sings
+      company: The Vaults
+      designer: Clancy Flynn
+      link: http://strangersingsuk.com/
+- role: "Associate Lighting Designer & Lighting Programmer" 
+  shows:
+    - title: A Christmas Carol
+      company: Leeds Playhouse
+      designer: Jai Morjaria
+      link: https://leedsplayhouse.org.uk/event/a-christmas-carol/
+    - title: Animal Farm
+      designer: Jai Morjaria
+      company: Theatre Royal Stratford East, Leeds Playhouse, Nottingham Playhouse
+      link: https://www.stratfordeast.com/whats-on/all-shows/animal-farm
+    - title: THEM (2022)
+      designer: Chloe Kenward 
+      company: Body Politic
+- role: Lighting Programmer 
+  shows: 
+    - title: "Uncanny: I Know What I Saw"
+      company: Tilted Sessions
+      designer: Jai Morjaria
+    - title: "Romeo & Juliet"
+      company: Lakeside Arts
+      designer: Richard Statham
+- role: Touring Relighter 
+  shows: 
+    - title: Stranger Sings UK Tour
+      company: Ellis Live / The Vaults
+      link: https://strangersingsuk.com/
+    - title: Dance No 2 Degrees
+      company: The Place
+      designer: Edward Saunders
+      link: https://theplace.org.uk/events/dance-no-2
+    - title: "THEM (UK Tour)"
+      company: Body Politic
+      designer: Chloe Kenward
+      link: https://bodypoliticdance.com/projects/them/
+    - title: Trainspotting Live (Edinburgh Fringe)
+      designer: Clancy Flynn
+      company: Seabright Live
+    - title: "My Son's A Queer (UK Tour)"
+      designer: Jai Morjaria
+      link: https://www.instagram.com/mysonsaqueer/
+- role: Video Engineer / Programmer 
+  shows: 
+    - title: Public Interest
+      designer: Catherine Woodhouse
+      designer_title: Video Design
+      link: https://bradford2025.co.uk/event/public-interest/
+      company: Common Wealth / Bradford2025
+    - title: The Ugly Duckling
+      company: Nottingham Playhouse 
+    - title: Little Red Riding Hood 
+      company: Nottingham Playhouse 
+    - title: Goldilocks and the Three Bears
+      company: Notitngham Playhouse
+    - title: 'Hansel & Gretel'
+      company: Nottingham Playhouse
 - role: QLab Programmer
-  company: Nottingham Playhouse
-  show: "'A Midsummer Night's Dream'; 'Little Red Riding Hood'; 'Goldilocks and the Three Bears'; 'Hansel & Gretel'"
-- role: QLab Programmer
-  company: Tilted Sessions
-  show: Brown Girls Do It Too
+  shows:
+    - title: DNA 
+      company: Lakeside Arts 
+    - title: "A Midsummer Night's Dream"
+      company: Notitngham Playhouse / Lakeside Arts
+    - title: Brown Girls Do It Too
+      company: Tilted Sessions
+- role: Show Control Programmer
+  shows:
+    - title: Bridge Command
+    - title: Taskmaster Live
+    - title: The Traitors Live Experience
+    - title: Fame Factory
+

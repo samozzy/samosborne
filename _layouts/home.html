@@ -19,11 +19,19 @@ layout: default
 					{% endif %}
 					{% if site.data.previous and site.data.previous != empty %}
 					{% if site.data.current != empty %}<hr>{% endif %}
-					<h2 class="h3">Previous roles include:</h2>
-					<ul class="ml-4">
-						{% for project in site.data.previous %}
-							<li>{{ project.role }} &ndash; {% if project.show and project.show != empty %}<em>{{ project.show }}</em> {% if project.company and project.company != empty %}|{% endif %} {% endif %}{{ project.company }}</li>
-						{% endfor %}
-					</ul>
+						<h2 class="h3">Previous roles include:</h2>
+						<div class="row">
+							{% for role in site.data.previous %}
+								<div class="col-12 col-lg-6">
+									<h5>{{ role.role }}</h5>
+									<ul>
+									{% for show in role.shows %}
+										<li>{{ show.title }} {% if show.company or show.designer %}|{% endif %} {{ show.company }} 
+											{% if show.designer %}<br><em>{{ show.designer_title | default:"Lighting Design" }} by {{ show.designer }}</em>{% endif %}</li>
+									{% endfor %}
+									</ul>
+								</div>
+							{% endfor %}
+						</div>
 					{% endif %}
 

@@ -1,18 +1,14 @@
-- role: Show Control Programmer 
-  show: Peppa Pig's Surprise Party 
-  company: Immersive Everywhere 
 - role: Lighting Designer
-  show: A Foot is Not An Appropriate Prize for the Tombola
-  company: Daniel McVey
-  link: https://www.edfringe.com/tickets/whats-on/a-foot-is-not-an-appropriate-prize-for-the-tombola/
-- role: Relighter
-  show: Trainspotting Live
-  company: Seabright Live
-  link: https://www.edfringe.com/tickets/whats-on/trainspotting-live
+  show: Jane Eyre 
+  company: ABD Productions 
+- role: Lighting Designer
+  show: Cinderella
+  company: Nottingham Playhouse 
+  link: https://nottinghamplayhouse.co.uk/events/cinderella-neville/
 - role: Associate Lighting Designer & Programmer 
-  show: Chitty Chitty Bang Bang
-  company: Watermill Theatre
-  link: https://www.watermill.org.uk/events/chitty#content-cast
+  show: Fences 
+  company: Headlong / Leeds Playhouse / Lyric Hammersmith 
+  link: https://www.headlong.co.uk/productions/fences
 - role: COGS Programmer
   company: Clockwork Dog 
 - role: Technical Director & Duty Technical Manager

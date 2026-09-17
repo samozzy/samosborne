@@ -1,5 +1,8 @@
 - role: Lighting Designer 
   shows: 
+    - title: A Foot is Not An Appropriate Prize for the Tombola
+      company: Daniel McVey
+      link: https://www.edfringe.com/tickets/whats-on/a-foot-is-not-an-appropriate-prize-for-the-tombola/
     - title: "Planet Omar: Accidental Trouble Magnet"
       company: Leeds Playhouse 
       link: https://www.leedsplayhouse.org.uk/event/planet-omar/
@@ -34,6 +37,9 @@
       link: http://strangersingsuk.com/
 - role: "Associate Lighting Designer & Lighting Programmer" 
   shows:
+    - title: Chitty Chitty Bang Bang 
+      company: Watermill Theatre 
+      designer: Jai Morjaria
     - title: A Christmas Carol
       company: Leeds Playhouse
       designer: Jai Morjaria
@@ -101,4 +107,5 @@
     - title: Taskmaster Live
     - title: The Traitors Live Experience
     - title: Fame Factory
+    - title: "Peppa Pig's Surprise Party"
 

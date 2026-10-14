@@ -1,14 +1,19 @@
 - role: Lighting Designer
-  show: Jane Eyre 
-  company: ABD Productions 
-- role: Lighting Designer
   show: Cinderella
   company: Nottingham Playhouse 
   link: https://nottinghamplayhouse.co.uk/events/cinderella-neville/
-- role: Associate Lighting Designer & Programmer 
+- role: Associate Lighting Designer, Programmer, Touring Relighter  
   show: Fences 
   company: Headlong / Leeds Playhouse / Lyric Hammersmith 
   link: https://www.headlong.co.uk/productions/fences
+- role: Lighting Programmer 
+  show: The Only Brown Deaf Man in England 
+  company: Fuse Theatre / Mercury Theatre 
+  link: https://www.mercurytheatre.co.uk/event/the-only-brown-deaf-man-in-england/
+- role: Associate Lighting Designer and Programmer 
+  show: "Dr Seuss' How The Grinch Stole Christmas: The Musical"
+  company: Leeds Playhouse 
+  link: https://www.leedsplayhouse.org.uk/event/dr-seuss-how-the-grinch-stole-christmas-the-musical/
 - role: COGS Programmer
   company: Clockwork Dog 
 - role: Technical Director & Duty Technical Manager

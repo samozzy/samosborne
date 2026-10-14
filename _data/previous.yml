@@ -1,5 +1,7 @@
 - role: Lighting Designer 
   shows: 
+    - title: Jane Eyre 
+      company: ABD Productions 
     - title: A Foot is Not An Appropriate Prize for the Tombola
       company: Daniel McVey
       link: https://www.edfringe.com/tickets/whats-on/a-foot-is-not-an-appropriate-prize-for-the-tombola/
@@ -22,6 +24,9 @@
       company: Votive Theatre
 - role: Associate Lighting Designer
   shows: 
+    - title: Bliss 
+      company: ATG / Susan Edelstein  
+      designer: Jai Morjaria 
     - title: The Wild Cards 
       company: Sisco 
       designer: Sam Ohlsson 
